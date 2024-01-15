@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAppAssignment_Day7.props" />
+</Project>
